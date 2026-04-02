@@ -1,7 +1,7 @@
 import streamlit as st
-import google.generativeai as genai from gtts 
-import gTTS from moviepy.editor 
-import VideoFileClip
+import google.generativeai as genai
+from gtts import gTTS
+from moviepy.editor import VideoFileClip
 import os
 import time
 
